@@ -21,7 +21,7 @@ M=1
 D = 100*M
 iota = pi/2.2
 screen_side = 22*M
-n_pixels = 1500
+n_pixels = 3200
 detector = image_plane(D, iota, screen_side,  n_pixels)
 
 
